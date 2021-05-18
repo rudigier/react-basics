@@ -1,0 +1,8 @@
+@import './styles/settings';
+@import './styles/layout';
+
+.App {
+	display: block;
+	max-width: 500px;
+	margin: $gutter auto;
+}
